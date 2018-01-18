@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi All!
+
+"Oh My God! They killed Kenny!"
+
+Quoted from South Park (obviously haha)
